@@ -61,7 +61,7 @@ for ($i = 0; $i < $jumlah_transaksi_acak; $i++) {
 
         /* Styling yang sudah ada */
         body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; }
-        .header { background: #007bff; color: white; padding: 10px 20px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
+        .header { background:rgb(90, 162, 240); color: white; padding: 10px 20px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
         .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
         h3 { color: #007bff; border-bottom: 2px solid #007bff; padding-bottom: 5px; margin-top: 0; }
         table { width: 100%; border-collapse: collapse; margin-top: 15px; }
