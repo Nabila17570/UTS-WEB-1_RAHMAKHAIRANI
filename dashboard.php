@@ -68,7 +68,7 @@ for ($i = 0; $i < $jumlah_transaksi_acak; $i++) {
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
         .total-row td { font-weight: bold; background-color: #e9ecef; }
-        .logout-btn { padding: 8px 15px; background-color: #dc3545; color: white; border: none; border-radius: 4px; cursor: pointer; text-decoration: none; }
+        .logout-btn { padding: 8px 15px; background-color:rgb(168, 152, 153); color: white; border: none; border-radius: 4px; cursor: pointer; text-decoration: none; }
         .welcome { font-size: 1.1em; font-weight: bold; }
         .text-right { text-align: right; }
         
