@@ -84,7 +84,7 @@ for ($i = 0; $i < $jumlah_transaksi_acak; $i++) {
     <div class="header">
         <h1>--POLGAN MART--</h1> 
         <div class="user-info-group">
-            <span class="welcome">Selamat datang, <?php echo $username; ?>!</span> 
+            <span class="welcome">SELAMAT DATANG, <?php echo $username; ?>!</span> 
             <p class="role-text">Role: <?php echo $role; ?></p>
             <a href="logout.php" class="logout-btn">Logout</a> 
         </div>
