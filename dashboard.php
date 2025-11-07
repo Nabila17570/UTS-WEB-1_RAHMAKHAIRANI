@@ -54,7 +54,7 @@ for ($i = 0; $i < $jumlah_transaksi_acak; $i++) {
         /* Tambahkan CSS untuk styling role text */
         .role-text {
             font-size: 0.9em;
-            color: #f4f4f4; /* Warna abu-abu */
+            color:rgb(202, 195, 195); /* Warna abu-abu */
             margin: 0;
             margin-bottom: 5px; /* Jarak dengan tombol logout */
         }
